@@ -39,7 +39,7 @@ This module involved using **security monitoring tools** to analyze alerts and r
 - Escalating incidents to Tier 2 analysts  
 - Blocking malicious IP addresses  
 
-🔗 **TryHackMe Module**: [Junior SOC Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)  
+
 
 ## Conclusion  
 Completing this module provided valuable insights into SOC operations and security analysis. As I continue my **cybersecurity journey**, I aim to apply this knowledge to real-world security monitoring and incident response scenarios.  
