@@ -1,4 +1,4 @@
-# Junior SOC Analyst Report  
+# SOC Analyst Report  
 
 ## Overview  
 This repository contains a report on the **Junior Security Analyst** training module from TryHackMe. It explores the responsibilities of SOC analysts at different tiers and provides insights into security monitoring, incident response, and threat hunting.  
