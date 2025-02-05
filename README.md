@@ -8,7 +8,7 @@ This repository contains a report on the **Junior Security Analyst** training mo
 - [SOC Structure](#soc-structure)  
 - [Tier 1: Triage Analysts](#tier-1-triage-analysts)  
 - [Tier 2: Incident Responders](#tier-2-incident-responders)  
-- [Tier 3: Threat Hunters](#tier-3-threat-hunters)  
+- [Tier 3: Threat Hunters](#tier-3-threat-hunters)   
 - [Hands-on Experience](#hands-on-experience)  
 - [Conclusion](#conclusion)  
 
