@@ -4,7 +4,7 @@
 This repository contains a report on the **Junior Security Analyst** training module from TryHackMe. It explores the responsibilities of SOC analysts at different tiers and provides insights into security monitoring, incident response, and threat hunting.  
  
 ## Table of Contents    
-- [Introduction](#introduction)       
+- [Introduction](#introduction)        
 - [SOC Structure](#soc-structure)     
 - [Tier 1: Triage Analysts](#tier-1-triage-analysts)  
 - [Tier 2: Incident Responders](#tier-2-incident-responders)  
